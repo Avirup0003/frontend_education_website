@@ -1,4 +1,4 @@
-EduWeb-Learning website
+EduWeb Learning Website
 
 EduWeb is a modern, user-friendly web application designed to provide an interactive and accessible online learning experience for students, educators, and institutions. Whether you're looking to teach, learn, or manage courses, EduWeb provides the tools needed to make education seamless and engaging.
 

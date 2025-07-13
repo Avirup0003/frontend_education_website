@@ -1,13 +1,20 @@
-EduWeb Learning Website
+🎓 EduWeb Learning Website
+EduWeb is a modern, user-friendly web application built to deliver an engaging and accessible online learning experience for students, educators, and institutions. Whether you're here to teach, learn, or manage courses — EduWeb equips you with the tools to make education seamless and interactive.
 
-EduWeb is a modern, user-friendly web application designed to provide an interactive and accessible online learning experience for students, educators, and institutions. Whether you're looking to teach, learn, or manage courses, EduWeb provides the tools needed to make education seamless and engaging.
+🌟 Key Features
+👩‍🏫 Instructor Dashboard
+Manage courses, track student activity, and upload content with ease.
 
-🌟 Features 👩‍🏫 Instructor Dashboard for managing courses, students, and content
+🎓 Student Dashboard
+Personalized dashboard to monitor course progress and access enrolled content.
 
-🎓 Student Dashboard to track progress and access enrolled courses
+📚 Course Management
+Create rich courses using videos, PDFs, quizzes, and assignments.
 
-📚 Course creation with videos, PDFs, quizzes, and assignments
+🌐 Responsive Design
+Fully optimized for both web and mobile devices to ensure accessibility anywhere.
 
-🌐 Responsive UI/UX optimized for web and mobile devices
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript, React (or your chosen frontend framework)
 
-🛠️ Tech Stack Frontend: HTML, CSS, JavaScript, React (or your frontend framework)
+(Backend and database stack can be mentioned if applicable)
